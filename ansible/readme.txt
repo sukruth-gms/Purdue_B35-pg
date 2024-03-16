@@ -34,4 +34,7 @@ Ansible Terminlogy
 	5) ansible role ( to break a playbook into multiple files. This simplifies writing complex playbooks, and it makes them easier to reuse )
 	
 		look at: https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html     for more terms used in ansible. 
+
+
+
 		
