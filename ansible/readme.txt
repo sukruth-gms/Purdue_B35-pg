@@ -19,6 +19,7 @@ Ansible controller ( is the machine/host/server where we install ansible )
 		
 		ansible.cfg  ( default ansible configuraton - can be used to customize as per our need )
 
+https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 
 Ansible Terminlogy 
 
